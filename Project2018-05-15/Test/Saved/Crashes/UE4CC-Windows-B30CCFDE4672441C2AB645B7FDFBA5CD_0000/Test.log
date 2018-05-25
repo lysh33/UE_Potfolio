@@ -1,0 +1,1081 @@
+﻿Log file open, 05/25/18 16:26:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Test
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1027814154) SRandInit(1027814154).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.169753
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.201s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-TJ356I5 (192.168.0.116:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.25-07.26.39:541][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.25-07.26.39:541][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.25-07.26.39:557][  0]LogInit: Computer: DESKTOP-TJ356I5
+[2018.05.25-07.26.39:557][  0]LogInit: User: stl
+[2018.05.25-07.26.39:557][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.25-07.26.39:557][  0]LogInit: High frequency timer resolution =3.117794 MHz
+[2018.05.25-07.26.39:557][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.05.25-07.26.39:557][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.25-07.26.39:557][  0]LogMemory: Process Physical Memory: 273.86 MB used, 273.86 MB peak
+[2018.05.25-07.26.39:557][  0]LogMemory: Process Virtual Memory: 270.13 MB used, 270.13 MB peak
+[2018.05.25-07.26.39:557][  0]LogMemory: Physical Memory: 2421.35 MB used,  5724.76 MB free, 8146.11 MB total
+[2018.05.25-07.26.39:557][  0]LogMemory: Virtual Memory: 4788.86 MB used,  5724.76 MB free, 134217728.00 MB total
+[2018.05.25-07.26.39:578][  0]LogInit: Using OS detected language (ko-KR).
+[2018.05.25-07.26.39:578][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.05.25-07.26.39:627][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.05.25-07.26.40:099][  0]LogStreaming: Display: Took  0.521s to EndInitTextLocalization.
+[2018.05.25-07.26.40:099][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.25-07.26.40:170][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.25-07.26.40:170][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.25-07.26.42:379][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.25-07.26.42:425][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750' (Feature Level 11_0)
+[2018.05.25-07.26.42:425][  0]LogD3D11RHI:       994/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.25-07.26.42:428][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.25-07.26.42:428][  0]LogD3D11RHI:       0/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.25-07.26.42:428][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.25-07.26.42:433][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.25-07.26.42:433][  0]LogD3D11RHI:     GPU DeviceId: 0x1381 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.25-07.26.42:433][  0]LogWindows: EnumDisplayDevices:
+[2018.05.25-07.26.42:433][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750' (P:1 D:1)
+[2018.05.25-07.26.42:433][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750' (P:0 D:0)
+[2018.05.25-07.26.42:433][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750' (P:0 D:0)
+[2018.05.25-07.26.42:433][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.25-07.26.42:433][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750
+[2018.05.25-07.26.42:433][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.25-07.26.42:433][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.25-07.26.42:433][  0]LogRHI: Texture pool is 696 MB (70% of 994 MB)
+[2018.05.25-07.26.42:462][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.05.25-07.26.42:462][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.25-07.26.42:462][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.25-07.26.42:479][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.25-07.26.42:480][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Intermediate/Shaders/WorkingDirectory/9416/).
+[2018.05.25-07.26.42:480][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stl/AppData/Local/Temp/UnrealShaderWorkingDir/17A9D0C34DF59D83C24B848D6AF188D0/'.
+[2018.05.25-07.26.42:696][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.25-07.26.42:709][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.25-07.26.42:722][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.25-07.26.42:735][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.25-07.26.42:753][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.25-07.26.42:767][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.25-07.26.42:781][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.25-07.26.42:796][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.25-07.26.42:803][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.25-07.26.42:815][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.25-07.26.42:827][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.25-07.26.42:839][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.25-07.26.42:851][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.25-07.26.42:863][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.25-07.26.42:875][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.25-07.26.42:899][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.25-07.26.42:899][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.25-07.26.42:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.25-07.26.42:918][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.25-07.26.42:962][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.25-07.26.42:973][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.25-07.26.42:985][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.25-07.26.42:996][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.25-07.26.43:008][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.25-07.26.43:025][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.25-07.26.43:025][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.25-07.26.43:159][  0]LogXGEController: Cleaning working directory: C:/Users/stl/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.25-07.26.43:159][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.25-07.26.43:159][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.25-07.26.43:159][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.25-07.26.44:865][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.25-07.26.44:996][  0]LogDerivedDataCache: Loaded boot cache 0.13s 81MB C:/Users/stl/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.25-07.26.44:996][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stl/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.25-07.26.44:996][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.25-07.26.44:996][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.25-07.26.44:996][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.25-07.26.44:996][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.25-07.26.45:013][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.25-07.26.45:026][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.25-07.26.45:026][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.25-07.26.45:026][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.25-07.26.45:037][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.25-07.26.45:038][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.25-07.26.45:048][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.25-07.26.45:048][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.25-07.26.46:143][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.05.25-07.26.46:473][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.25-07.26.46:624][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.25-07.26.46:627][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.25-07.26.46:627][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.25-07.26.46:627][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.25-07.26.46:627][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.25-07.26.46:627][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.25-07.26.46:657][  0]LogNetVersion: Test , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2384909125)
+[2018.05.25-07.26.47:096][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.072324 seconds
+[2018.05.25-07.26.47:102][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.25-07.26.47:102][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.25-07.26.47:102][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.25-07.26.50:677][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.25-07.26.50:722][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.25-07.26.51:117][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.05.25-07.26.51:117][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.05.25-07.26.51:136][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.05.25-07.26.51:155][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.05.25-07.26.51:657][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.25-07.26.51:793][  0]LogOcInput: OculusInput pre-init called
+[2018.05.25-07.26.51:911][  0]LogEngine: Initializing Engine...
+[2018.05.25-07.26.51:912][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.25-07.26.51:913][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.25-07.26.51:913][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.25-07.26.52:136][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.25-07.26.52:154][  0]LogInit: XAudio2 using '디지털 오디오(S/PDIF)(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.25-07.26.52:173][  0]LogInit: FAudioDevice initialized.
+[2018.05.25-07.26.52:266][  0]LogDerivedDataCache: Saved boot cache 0.09s 81MB C:/Users/stl/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.25-07.26.52:280][  0]LogInit: Texture streaming: Enabled
+[2018.05.25-07.26.52:297][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.25-07.26.52:315][  0]LogInit: Transaction tracking system initialized
+[2018.05.25-07.26.52:347][  0]BlueprintLog: New page: 에디터 로드
+[2018.05.25-07.26.52:442][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.05.25-07.26.52:582][  0]LogConsoleResponse: Display: 
+[2018.05.25-07.26.52:731][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.25-07.26.52:731][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.25-07.26.52:731][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.25-07.26.52:731][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.25-07.26.52:731][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.25-07.26.53:151][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/' took 0.02s
+[2018.05.25-07.26.53:151][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.05.25-07.26.53:151][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.25-07.26.53:152][  0]LightingResults: New page: 라이팅 빌드
+[2018.05.25-07.26.53:155][  0]MapCheck: New page: 맵 체크
+[2018.05.25-07.26.53:155][  0]LightingResults: New page: 라이팅 빌드
+[2018.05.25-07.26.53:341][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.25-07.26.53:347][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.25-07.26.53:359][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.25-07.26.53:408][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 49.7ms.
+[2018.05.25-07.26.53:408][  0]LogFileHelpers: Loading map 'Template_Default' took 0.257
+[2018.05.25-07.26.53:561][  0]LogCollectionManager: Loaded 0 collections in 0.001844 seconds
+[2018.05.25-07.26.53:603][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Saved/Collections/' took 0.01s
+[2018.05.25-07.26.53:603][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Developers/stl/Collections/' took 0.01s
+[2018.05.25-07.26.53:603][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Collections/' took 0.01s
+[2018.05.25-07.26.53:603][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.25-07.26.53:612][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2452 classes and 558 folders.
+[2018.05.25-07.26.53:620][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.25-07.26.53:978][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.25-07.26.53:985][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.25-07.26.54:062][  0]LogSlate: Took 0.010000 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.25-07.26.54:083][  0]LogSlate: Took 0.020392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.05.25-07.26.54:098][  0]LogSlate: Took 0.014260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2018.05.25-07.26.54:103][  0]LogSlate: Took 0.003941 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.25-07.26.54:112][  0]LogSlate: Took 0.004631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.25-07.26.54:119][  0]LogSlate: Took 0.004715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.05.25-07.26.54:172][  0]LogSlate: Took 0.014176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2018.05.25-07.26.54:355][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.05.25-07.26.54:511][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.25-07.26.54:512][  0]LogLoad: (Engine Initialization) Total time: 17.38 seconds
+[2018.05.25-07.26.54:512][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.25-07.26.54:549][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.25-07.26.54:580][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.25-07.26.54:995][ 28]LogAssetRegistry: Asset discovery search completed in 8.8750 seconds
+[2018.05.25-07.26.54:998][ 28]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.25-07.26.54:998][ 28]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000237 seconds (updated 0 objects)
+[2018.05.25-07.27.27:079][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.25-07.27.42:611][904]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.25-07.27.42:632][904]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2018.05.25-07.27.42:709][904]LogSkeletalMesh: Skeletal Mesh found in DDC [15.312108ms] /Game/Charater_item/Meshes/SK_Mannequin.SK_Mannequin
+[2018.05.25-07.27.42:718][904]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.25-07.27.42:962][904]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.05.25-07.27.42:969][904]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.05.25-07.27.43:274][904]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.25-07.27.43:354][904]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.05.25-07.27.43:380][904]LogRenderer: Reallocating scene render targets to support 1208x888 Format 10 NumSamples 1 (Frame:1).
+[2018.05.25-07.27.46:172][  8]LogSlate: Window 'SK_Mannequin_PhysicsAsset' being destroyed
+[2018.05.25-07.27.55:653][983]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.25-07.27.55:657][983]LogMaterial: Missing cached shader map for material antena2, compiling. 
+[2018.05.25-07.27.55:704][983]LogMaterial: Missing cached shader map for material antena3, compiling. 
+[2018.05.25-07.27.55:725][983]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.05.25-07.27.55:725][983]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.05.25-07.27.55:725][983]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.05.25-07.27.55:725][983]LogMaterial: Missing cached shader map for material antena4, compiling. 
+[2018.05.25-07.27.55:746][983]LogMaterial: Missing cached shader map for material antena5, compiling. 
+[2018.05.25-07.27.55:771][983]LogMaterial: Missing cached shader map for material antena6, compiling. 
+[2018.05.25-07.27.55:792][983]LogMaterial: Missing cached shader map for material antena7, compiling. 
+[2018.05.25-07.27.55:814][983]LogMaterial: Missing cached shader map for material antena8, compiling. 
+[2018.05.25-07.27.55:834][983]LogMaterial: Missing cached shader map for material antena9, compiling. 
+[2018.05.25-07.27.55:855][983]LogMaterial: Missing cached shader map for material body_paper5, compiling. 
+[2018.05.25-07.27.55:875][983]LogMaterial: Missing cached shader map for material body_paper6, compiling. 
+[2018.05.25-07.27.55:895][983]LogMaterial: Missing cached shader map for material body_paper7, compiling. 
+[2018.05.25-07.27.55:916][983]LogMaterial: Missing cached shader map for material body_paper8, compiling. 
+[2018.05.25-07.27.55:936][983]LogMaterial: Missing cached shader map for material face_glass5, compiling. 
+[2018.05.25-07.27.55:958][983]LogMaterial: Missing cached shader map for material face_glass6, compiling. 
+[2018.05.25-07.27.55:977][983]LogMaterial: Missing cached shader map for material face_glass7, compiling. 
+[2018.05.25-07.27.55:998][983]LogMaterial: Missing cached shader map for material face_glass8, compiling. 
+[2018.05.25-07.27.56:018][983]LogLinker: Warning: '/Game/Character/mesh/SK_Ninja_Skeleton' 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:018][983]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Extra/Animations/Ninja_Idle03.uasset 로드중 '/Game/Character/mesh/SK_Ninja_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:019][983]LoadErrors: Error: /Game/Extra/Animations/Ninja_Idle03 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Character/mesh/SK_Ninja_Skeleton
+[2018.05.25-07.27.56:022][983]LogLinker: Warning: '/Game/Character/mesh/SK_Ninja_Skeleton' 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:022][983]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Extra/Animations/Ninja_Idle03.uasset 로드중 '/Game/Character/mesh/SK_Ninja_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:024][983]LogLinker: Warning: '/Game/Character/mesh/SK_Ninja_Skeleton' 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:024][983]LoadErrors: 로드에 실패했습니다. /Game/Character/mesh/SK_Ninja_Skeleton.SK_Ninja_Skeleton 레퍼런싱한 것: Ninja_Idle03
+[2018.05.25-07.27.56:025][983]LogLinker: Warning: NULL 로드중 '/Game/Character/mesh/SK_Ninja_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:030][983]LogMaterial: Missing cached shader map for material weapon_tree4, compiling. 
+[2018.05.25-07.27.56:047][983]LogSkeletalMesh: Building Skeletal Mesh Ninja_Idle03...
+[2018.05.25-07.27.56:051][983]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Extra/Animations/Ninja_Idle03.Ninja_Idle03
+[2018.05.25-07.27.56:057][983]LogLinker: Warning: '/Game/Character/mesh/SK_Ninja_Skeleton' 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:058][983]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Extra/Animations/ninja_jump_0-19_humikiri.uasset 로드중 '/Game/Character/mesh/SK_Ninja_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:058][983]LoadErrors: Error: /Game/Extra/Animations/ninja_jump_0-19_humikiri : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Character/mesh/SK_Ninja_Skeleton
+[2018.05.25-07.27.56:062][983]LogLinker: Warning: '/Game/Character/mesh/SK_Ninja_Skeleton' 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:062][983]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Extra/Animations/ninja_jump_0-19_humikiri.uasset 로드중 '/Game/Character/mesh/SK_Ninja_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:064][983]LogLinker: Warning: '/Game/Character/mesh/SK_Ninja_Skeleton' 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:064][983]LoadErrors: 로드에 실패했습니다. /Game/Character/mesh/SK_Ninja_Skeleton.SK_Ninja_Skeleton 레퍼런싱한 것: ninja_jump_0-19_humikiri
+[2018.05.25-07.27.56:065][983]LogLinker: Warning: NULL 로드중 '/Game/Character/mesh/SK_Ninja_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:068][983]LogMaterial: Missing cached shader map for material weapon_tree5, compiling. 
+[2018.05.25-07.27.56:085][983]LogSkeletalMesh: Building Skeletal Mesh ninja_jump_0-19_humikiri...
+[2018.05.25-07.27.56:088][983]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Extra/Animations/ninja_jump_0-19_humikiri.ninja_jump_0-19_humikiri
+[2018.05.25-07.27.56:091][983]LogLinker: Warning: '/Game/Character/mesh/SK_Ninja_Skeleton' 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:092][983]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Extra/Animations/ninja_jump_20-42_jump.uasset 로드중 '/Game/Character/mesh/SK_Ninja_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:092][983]LoadErrors: Error: /Game/Extra/Animations/ninja_jump_20-42_jump : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Character/mesh/SK_Ninja_Skeleton
+[2018.05.25-07.27.56:096][983]LogLinker: Warning: '/Game/Character/mesh/SK_Ninja_Skeleton' 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:096][983]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Extra/Animations/ninja_jump_20-42_jump.uasset 로드중 '/Game/Character/mesh/SK_Ninja_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:098][983]LogLinker: Warning: '/Game/Character/mesh/SK_Ninja_Skeleton' 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:098][983]LoadErrors: 로드에 실패했습니다. /Game/Character/mesh/SK_Ninja_Skeleton.SK_Ninja_Skeleton 레퍼런싱한 것: ninja_jump_20-42_jump
+[2018.05.25-07.27.56:098][983]LogLinker: Warning: NULL 로드중 '/Game/Character/mesh/SK_Ninja_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:102][983]LogMaterial: Missing cached shader map for material weapon_tree2, compiling. 
+[2018.05.25-07.27.56:119][983]LogSkeletalMesh: Building Skeletal Mesh ninja_jump_20-42_jump...
+[2018.05.25-07.27.56:123][983]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Extra/Animations/ninja_jump_20-42_jump.ninja_jump_20-42_jump
+[2018.05.25-07.27.56:126][983]LogLinker: Warning: '/Game/Character/mesh/SK_Ninja_Skeleton' 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:127][983]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Extra/Animations/ninja_jump_43-60_contact.uasset 로드중 '/Game/Character/mesh/SK_Ninja_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:127][983]LoadErrors: Error: /Game/Extra/Animations/ninja_jump_43-60_contact : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Character/mesh/SK_Ninja_Skeleton
+[2018.05.25-07.27.56:130][983]LogLinker: Warning: '/Game/Character/mesh/SK_Ninja_Skeleton' 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:130][983]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Extra/Animations/ninja_jump_43-60_contact.uasset 로드중 '/Game/Character/mesh/SK_Ninja_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:132][983]LogLinker: Warning: '/Game/Character/mesh/SK_Ninja_Skeleton' 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:133][983]LoadErrors: 로드에 실패했습니다. /Game/Character/mesh/SK_Ninja_Skeleton.SK_Ninja_Skeleton 레퍼런싱한 것: ninja_jump_43-60_contact
+[2018.05.25-07.27.56:133][983]LogLinker: Warning: NULL 로드중 '/Game/Character/mesh/SK_Ninja_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.27.56:137][983]LogMaterial: Missing cached shader map for material weapon_tree3, compiling. 
+[2018.05.25-07.27.56:154][983]LogSkeletalMesh: Building Skeletal Mesh ninja_jump_43-60_contact...
+[2018.05.25-07.27.56:157][983]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Extra/Animations/ninja_jump_43-60_contact.ninja_jump_43-60_contact
+[2018.05.25-07.27.57:372][983]LogTexture: Display: 텍스처 빌드: T_Tatami_kiwa_base (BGRA8, 3169X435)
+[2018.05.25-07.27.57:372][983]LogTexture: Display: 텍스처 빌드: T_Tatami_kiwa_Loop (AutoDXT, 1280X512)
+[2018.05.25-07.28.00:007][983]LogShaderCompilers: Display: Shaders left to compile 1170
+[2018.05.25-07.28.00:329][983]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.25-07.28.03:755][983]LogShaderCompilers: Display: Shaders left to compile 1160
+[2018.05.25-07.28.03:755][983]LogShaderCompilers: Display: Shaders left to compile 1150
+[2018.05.25-07.28.03:755][983]LogShaderCompilers: Display: Shaders left to compile 1140
+[2018.05.25-07.28.03:755][983]LogShaderCompilers: Display: Shaders left to compile 1130
+[2018.05.25-07.28.04:861][985]LogShaderCompilers: Display: Shaders left to compile 1120
+[2018.05.25-07.28.05:205][988]LogShaderCompilers: Display: Shaders left to compile 1110
+[2018.05.25-07.28.06:595][ 88]LogShaderCompilers: Display: Shaders left to compile 1100
+[2018.05.25-07.28.06:907][ 90]LogShaderCompilers: Display: Shaders left to compile 1090
+[2018.05.25-07.28.07:727][ 92]LogShaderCompilers: Display: Shaders left to compile 1080
+[2018.05.25-07.28.08:192][102]LogShaderCompilers: Display: Shaders left to compile 1070
+[2018.05.25-07.28.08:858][104]LogShaderCompilers: Display: Shaders left to compile 1060
+[2018.05.25-07.28.09:014][106]LogShaderCompilers: Display: Shaders left to compile 1050
+[2018.05.25-07.28.10:299][109]LogShaderCompilers: Display: Shaders left to compile 1040
+[2018.05.25-07.28.10:457][113]LogShaderCompilers: Display: Shaders left to compile 1030
+[2018.05.25-07.28.11:129][115]LogShaderCompilers: Display: Shaders left to compile 1020
+[2018.05.25-07.28.11:772][117]LogShaderCompilers: Display: Shaders left to compile 1010
+[2018.05.25-07.28.12:362][119]LogShaderCompilers: Display: Shaders left to compile 1000
+[2018.05.25-07.28.12:421][125]LogShaderCompilers: Display: Shaders left to compile 990
+[2018.05.25-07.28.13:868][129]LogShaderCompilers: Display: Shaders left to compile 980
+[2018.05.25-07.28.13:952][132]LogShaderCompilers: Display: Shaders left to compile 970
+[2018.05.25-07.28.14:450][134]LogShaderCompilers: Display: Shaders left to compile 960
+[2018.05.25-07.28.15:415][137]LogShaderCompilers: Display: Shaders left to compile 950
+[2018.05.25-07.28.15:767][143]LogShaderCompilers: Display: Shaders left to compile 940
+[2018.05.25-07.28.15:924][145]LogShaderCompilers: Display: Shaders left to compile 930
+[2018.05.25-07.28.17:315][148]LogShaderCompilers: Display: Shaders left to compile 920
+[2018.05.25-07.28.17:507][150]LogShaderCompilers: Display: Shaders left to compile 910
+[2018.05.25-07.28.17:933][152]LogShaderCompilers: Display: Shaders left to compile 900
+[2018.05.25-07.28.18:795][154]LogShaderCompilers: Display: Shaders left to compile 890
+[2018.05.25-07.28.19:183][156]LogShaderCompilers: Display: Shaders left to compile 880
+[2018.05.25-07.28.19:393][159]LogShaderCompilers: Display: Shaders left to compile 870
+[2018.05.25-07.28.20:722][161]LogShaderCompilers: Display: Shaders left to compile 860
+[2018.05.25-07.28.20:841][163]LogShaderCompilers: Display: Shaders left to compile 850
+[2018.05.25-07.28.21:431][168]LogShaderCompilers: Display: Shaders left to compile 840
+[2018.05.25-07.28.22:232][170]LogShaderCompilers: Display: Shaders left to compile 830
+[2018.05.25-07.28.22:802][195]LogShaderCompilers: Display: Shaders left to compile 820
+[2018.05.25-07.28.22:875][197]LogShaderCompilers: Display: Shaders left to compile 810
+[2018.05.25-07.28.24:338][198]LogShaderCompilers: Display: Shaders left to compile 800
+[2018.05.25-07.28.24:358][199]LogShaderCompilers: Display: Shaders left to compile 790
+[2018.05.25-07.28.24:859][201]LogShaderCompilers: Display: Shaders left to compile 780
+[2018.05.25-07.28.25:929][222]LogShaderCompilers: Display: Shaders left to compile 770
+[2018.05.25-07.28.26:176][224]LogShaderCompilers: Display: Shaders left to compile 760
+[2018.05.25-07.28.26:357][226]LogShaderCompilers: Display: Shaders left to compile 750
+[2018.05.25-07.28.27:759][230]LogShaderCompilers: Display: Shaders left to compile 740
+[2018.05.25-07.28.28:019][237]LogShaderCompilers: Display: Shaders left to compile 730
+[2018.05.25-07.28.28:416][238]LogShaderCompilers: Display: Shaders left to compile 720
+[2018.05.25-07.28.29:306][241]LogShaderCompilers: Display: Shaders left to compile 710
+[2018.05.25-07.28.29:685][243]LogShaderCompilers: Display: Shaders left to compile 700
+[2018.05.25-07.28.29:986][248]LogShaderCompilers: Display: Shaders left to compile 690
+[2018.05.25-07.28.31:246][249]LogShaderCompilers: Display: Shaders left to compile 680
+[2018.05.25-07.28.31:375][254]LogShaderCompilers: Display: Shaders left to compile 670
+[2018.05.25-07.28.32:095][269]LogShaderCompilers: Display: Shaders left to compile 660
+[2018.05.25-07.28.32:832][283]LogShaderCompilers: Display: Shaders left to compile 650
+[2018.05.25-07.28.33:373][284]LogShaderCompilers: Display: Shaders left to compile 640
+[2018.05.25-07.28.33:418][287]LogShaderCompilers: Display: Shaders left to compile 630
+[2018.05.25-07.28.34:954][308]LogShaderCompilers: Display: Shaders left to compile 620
+[2018.05.25-07.28.35:065][311]LogShaderCompilers: Display: Shaders left to compile 610
+[2018.05.25-07.28.35:538][314]LogShaderCompilers: Display: Shaders left to compile 600
+[2018.05.25-07.28.36:577][338]LogShaderCompilers: Display: Shaders left to compile 590
+[2018.05.25-07.28.36:915][340]LogShaderCompilers: Display: Shaders left to compile 580
+[2018.05.25-07.28.37:088][343]LogShaderCompilers: Display: Shaders left to compile 570
+[2018.05.25-07.28.38:464][344]LogShaderCompilers: Display: Shaders left to compile 560
+[2018.05.25-07.28.38:643][347]LogShaderCompilers: Display: Shaders left to compile 550
+[2018.05.25-07.28.39:097][349]LogShaderCompilers: Display: Shaders left to compile 540
+[2018.05.25-07.28.39:972][353]LogShaderCompilers: Display: Shaders left to compile 530
+[2018.05.25-07.28.40:368][355]LogShaderCompilers: Display: Shaders left to compile 520
+[2018.05.25-07.28.40:630][362]LogShaderCompilers: Display: Shaders left to compile 510
+[2018.05.25-07.28.41:937][363]LogShaderCompilers: Display: Shaders left to compile 500
+[2018.05.25-07.28.42:077][366]LogShaderCompilers: Display: Shaders left to compile 490
+[2018.05.25-07.28.42:687][368]LogShaderCompilers: Display: Shaders left to compile 480
+[2018.05.25-07.28.43:429][372]LogShaderCompilers: Display: Shaders left to compile 470
+[2018.05.25-07.28.43:954][374]LogShaderCompilers: Display: Shaders left to compile 460
+[2018.05.25-07.28.43:969][376]LogShaderCompilers: Display: Shaders left to compile 450
+[2018.05.25-07.28.45:485][382]LogShaderCompilers: Display: Shaders left to compile 440
+[2018.05.25-07.28.45:570][392]LogShaderCompilers: Display: Shaders left to compile 430
+[2018.05.25-07.28.46:067][400]LogShaderCompilers: Display: Shaders left to compile 420
+[2018.05.25-07.28.47:151][427]LogShaderCompilers: Display: Shaders left to compile 410
+[2018.05.25-07.28.47:437][429]LogShaderCompilers: Display: Shaders left to compile 400
+[2018.05.25-07.28.47:715][441]LogShaderCompilers: Display: Shaders left to compile 390
+[2018.05.25-07.28.49:016][442]LogShaderCompilers: Display: Shaders left to compile 380
+[2018.05.25-07.28.49:309][462]LogShaderCompilers: Display: Shaders left to compile 370
+[2018.05.25-07.28.49:812][464]LogShaderCompilers: Display: Shaders left to compile 360
+[2018.05.25-07.28.50:599][467]LogShaderCompilers: Display: Shaders left to compile 350
+[2018.05.25-07.28.51:100][469]LogShaderCompilers: Display: Shaders left to compile 340
+[2018.05.25-07.28.51:217][471]LogShaderCompilers: Display: Shaders left to compile 330
+[2018.05.25-07.28.52:637][472]LogShaderCompilers: Display: Shaders left to compile 320
+[2018.05.25-07.28.52:645][473]LogShaderCompilers: Display: Shaders left to compile 310
+[2018.05.25-07.28.53:243][481]LogShaderCompilers: Display: Shaders left to compile 300
+[2018.05.25-07.28.54:129][482]LogShaderCompilers: Display: Shaders left to compile 290
+[2018.05.25-07.28.54:588][501]LogShaderCompilers: Display: Shaders left to compile 280
+[2018.05.25-07.28.54:664][506]LogShaderCompilers: Display: Shaders left to compile 270
+[2018.05.25-07.28.56:125][508]LogShaderCompilers: Display: Shaders left to compile 260
+[2018.05.25-07.28.56:278][511]LogShaderCompilers: Display: Shaders left to compile 250
+[2018.05.25-07.28.57:040][600]LogShaderCompilers: Display: Shaders left to compile 240
+[2018.05.25-07.28.58:247][739]LogLinker: Warning: '/Game/Particles/Materials/M_FX_FireBall' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:248][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/PS_FireBall.uasset 로드중 '/Game/Particles/Materials/M_FX_FireBall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:248][739]LoadErrors: Error: /Game/Particle/FireBall/PS_FireBall : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Particles/Materials/M_FX_FireBall
+[2018.05.25-07.28.58:249][739]LogLinker: Warning: '/Game/Particles/Materials/MI_FX_FireBall02' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:249][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/PS_FireBall.uasset 로드중 '/Game/Particles/Materials/MI_FX_FireBall02' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:250][739]LoadErrors: Error: /Game/Particle/FireBall/PS_FireBall : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Particles/Materials/MI_FX_FireBall02
+[2018.05.25-07.28.58:250][739]LogLinker: Warning: '/Game/Particles/Materials/MI_FX_FireBall04' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:251][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/PS_FireBall.uasset 로드중 '/Game/Particles/Materials/MI_FX_FireBall04' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:251][739]LoadErrors: Error: /Game/Particle/FireBall/PS_FireBall : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Particles/Materials/MI_FX_FireBall04
+[2018.05.25-07.28.58:252][739]LogLinker: Warning: '/Game/Particles/Materials/MI_FX_FireBall05' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:252][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/PS_FireBall.uasset 로드중 '/Game/Particles/Materials/MI_FX_FireBall05' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:253][739]LoadErrors: Error: /Game/Particle/FireBall/PS_FireBall : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Particles/Materials/MI_FX_FireBall05
+[2018.05.25-07.28.58:253][739]LogLinker: Warning: '/Game/Particles/Materials/M_FX_FireBall' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:254][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/PS_FireBall.uasset 로드중 '/Game/Particles/Materials/M_FX_FireBall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:254][739]LogLinker: Warning: '/Game/Particles/Materials/MI_FX_FireBall02' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:255][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/PS_FireBall.uasset 로드중 '/Game/Particles/Materials/MI_FX_FireBall02' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:255][739]LogLinker: Warning: '/Game/Particles/Materials/MI_FX_FireBall04' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:255][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/PS_FireBall.uasset 로드중 '/Game/Particles/Materials/MI_FX_FireBall04' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:256][739]LogLinker: Warning: '/Game/Particles/Materials/MI_FX_FireBall05' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:256][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/PS_FireBall.uasset 로드중 '/Game/Particles/Materials/MI_FX_FireBall05' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:262][739]LogLinker: Warning: '/Game/Particles/Materials/MI_FX_FireBall02' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:263][739]LoadErrors: 로드에 실패했습니다. /Game/Particles/Materials/MI_FX_FireBall02.MI_FX_FireBall02 레퍼런싱한 것: ParticleModuleRequired_0
+[2018.05.25-07.28.58:263][739]LogLinker: Warning: NULL 로드중 '/Game/Particles/Materials/MI_FX_FireBall02' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:264][739]LogLinker: Warning: '/Game/Particles/Materials/MI_FX_FireBall05' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:264][739]LoadErrors: 로드에 실패했습니다. /Game/Particles/Materials/MI_FX_FireBall05.MI_FX_FireBall05 레퍼런싱한 것: ParticleModuleRequired_1
+[2018.05.25-07.28.58:265][739]LogLinker: Warning: NULL 로드중 '/Game/Particles/Materials/MI_FX_FireBall05' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:265][739]LogLinker: Warning: '/Game/Particles/Materials/M_FX_FireBall' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:265][739]LoadErrors: 로드에 실패했습니다. /Game/Particles/Materials/M_FX_FireBall.M_FX_FireBall 레퍼런싱한 것: ParticleModuleRequired_2
+[2018.05.25-07.28.58:266][739]LogLinker: Warning: NULL 로드중 '/Game/Particles/Materials/M_FX_FireBall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:266][739]LogLinker: Warning: '/Game/Particles/Materials/MI_FX_FireBall04' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:267][739]LoadErrors: 로드에 실패했습니다. /Game/Particles/Materials/MI_FX_FireBall04.MI_FX_FireBall04 레퍼런싱한 것: ParticleModuleRequired_3
+[2018.05.25-07.28.58:267][739]LogLinker: Warning: NULL 로드중 '/Game/Particles/Materials/MI_FX_FireBall04' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:267][739]LogLinker: Warning: '/Game/Particles/Materials/MI_FX_FireBall02' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:268][739]LoadErrors: 로드에 실패했습니다. /Game/Particles/Materials/MI_FX_FireBall02.MI_FX_FireBall02 레퍼런싱한 것: ParticleModuleRequired_6
+[2018.05.25-07.28.58:268][739]LogLinker: Warning: NULL 로드중 '/Game/Particles/Materials/MI_FX_FireBall02' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:269][739]LogLinker: Warning: '/Game/Particles/Materials/M_FX_FireBall' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:269][739]LoadErrors: 로드에 실패했습니다. /Game/Particles/Materials/M_FX_FireBall.M_FX_FireBall 레퍼런싱한 것: ParticleModuleRequired_8
+[2018.05.25-07.28.58:269][739]LogLinker: Warning: NULL 로드중 '/Game/Particles/Materials/M_FX_FireBall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:315][739]LogTexture: Display: 텍스처 빌드: ThumbnailTexture (DXT1, 512X512)
+[2018.05.25-07.28.58:315][739]LogLinker: Warning: '/Game/Particles/Materials/M_FX_FireBall' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:316][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/Materials/MI_FX_FireBall02.uasset 로드중 '/Game/Particles/Materials/M_FX_FireBall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:316][739]LoadErrors: Error: /Game/Particle/FireBall/Materials/MI_FX_FireBall02 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Particles/Materials/M_FX_FireBall
+[2018.05.25-07.28.58:317][739]LogLinker: Warning: '/Game/Particles/Materials/M_FX_FireBall' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:317][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/Materials/MI_FX_FireBall02.uasset 로드중 '/Game/Particles/Materials/M_FX_FireBall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:318][739]LogLinker: Warning: '/Game/Particles/Textures/T_FX_FireBall_02' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:318][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/Materials/MI_FX_FireBall02.uasset 로드중 '/Game/Particles/Textures/T_FX_FireBall_02' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:319][739]LoadErrors: Error: /Game/Particle/FireBall/Materials/MI_FX_FireBall02 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Particles/Textures/T_FX_FireBall_02
+[2018.05.25-07.28.58:319][739]LogLinker: Warning: '/Game/Particles/Textures/T_FX_FireBall_02' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:319][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/Materials/MI_FX_FireBall02.uasset 로드중 '/Game/Particles/Textures/T_FX_FireBall_02' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:321][739]LogLinker: Warning: '/Game/Particles/Materials/M_FX_FireBall' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:321][739]LoadErrors: 로드에 실패했습니다. /Game/Particles/Materials/M_FX_FireBall.M_FX_FireBall 레퍼런싱한 것: MI_FX_FireBall02
+[2018.05.25-07.28.58:321][739]LogLinker: Warning: NULL 로드중 '/Game/Particles/Materials/M_FX_FireBall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:322][739]LogLinker: Warning: '/Game/Particles/Textures/T_FX_FireBall_02' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:322][739]LoadErrors: 로드에 실패했습니다. /Game/Particles/Textures/T_FX_FireBall_02.T_FX_FireBall_02 레퍼런싱한 것: MI_FX_FireBall02
+[2018.05.25-07.28.58:323][739]LogLinker: Warning: NULL 로드중 '/Game/Particles/Textures/T_FX_FireBall_02' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:325][739]LogLinker: Warning: '/Game/Particles/Materials/M_FX_FireBall' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:325][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/Materials/MI_FX_FireBall04.uasset 로드중 '/Game/Particles/Materials/M_FX_FireBall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:326][739]LoadErrors: Error: /Game/Particle/FireBall/Materials/MI_FX_FireBall04 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Particles/Materials/M_FX_FireBall
+[2018.05.25-07.28.58:326][739]LogLinker: Warning: '/Game/Particles/Materials/M_FX_FireBall' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:327][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/Materials/MI_FX_FireBall04.uasset 로드중 '/Game/Particles/Materials/M_FX_FireBall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:327][739]LogLinker: Warning: '/Game/Particles/Textures/T_FX_FireBall_04' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:328][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/Materials/MI_FX_FireBall04.uasset 로드중 '/Game/Particles/Textures/T_FX_FireBall_04' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:328][739]LoadErrors: Error: /Game/Particle/FireBall/Materials/MI_FX_FireBall04 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Particles/Textures/T_FX_FireBall_04
+[2018.05.25-07.28.58:329][739]LogLinker: Warning: '/Game/Particles/Textures/T_FX_FireBall_04' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:329][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/Materials/MI_FX_FireBall04.uasset 로드중 '/Game/Particles/Textures/T_FX_FireBall_04' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:330][739]LogLinker: Warning: '/Game/Particles/Materials/M_FX_FireBall' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:330][739]LoadErrors: 로드에 실패했습니다. /Game/Particles/Materials/M_FX_FireBall.M_FX_FireBall 레퍼런싱한 것: MI_FX_FireBall04
+[2018.05.25-07.28.58:331][739]LogLinker: Warning: NULL 로드중 '/Game/Particles/Materials/M_FX_FireBall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:331][739]LogLinker: Warning: '/Game/Particles/Textures/T_FX_FireBall_04' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:332][739]LoadErrors: 로드에 실패했습니다. /Game/Particles/Textures/T_FX_FireBall_04.T_FX_FireBall_04 레퍼런싱한 것: MI_FX_FireBall04
+[2018.05.25-07.28.58:332][739]LogLinker: Warning: NULL 로드중 '/Game/Particles/Textures/T_FX_FireBall_04' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:333][739]LogLinker: Warning: '/Game/Particles/Materials/M_FX_FireBall' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:334][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/Materials/MI_FX_FireBall05.uasset 로드중 '/Game/Particles/Materials/M_FX_FireBall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:334][739]LoadErrors: Error: /Game/Particle/FireBall/Materials/MI_FX_FireBall05 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Particles/Materials/M_FX_FireBall
+[2018.05.25-07.28.58:335][739]LogLinker: Warning: '/Game/Particles/Materials/M_FX_FireBall' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:335][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/Materials/MI_FX_FireBall05.uasset 로드중 '/Game/Particles/Materials/M_FX_FireBall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:336][739]LogLinker: Warning: '/Game/Particles/Textures/T_FX_FireBall_05' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:336][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/Materials/MI_FX_FireBall05.uasset 로드중 '/Game/Particles/Textures/T_FX_FireBall_05' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:336][739]LoadErrors: Error: /Game/Particle/FireBall/Materials/MI_FX_FireBall05 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Particles/Textures/T_FX_FireBall_05
+[2018.05.25-07.28.58:337][739]LogLinker: Warning: '/Game/Particles/Textures/T_FX_FireBall_05' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:337][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/Materials/MI_FX_FireBall05.uasset 로드중 '/Game/Particles/Textures/T_FX_FireBall_05' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:338][739]LogLinker: Warning: '/Game/Particles/Materials/M_FX_FireBall' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:338][739]LoadErrors: 로드에 실패했습니다. /Game/Particles/Materials/M_FX_FireBall.M_FX_FireBall 레퍼런싱한 것: MI_FX_FireBall05
+[2018.05.25-07.28.58:339][739]LogLinker: Warning: NULL 로드중 '/Game/Particles/Materials/M_FX_FireBall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:339][739]LogLinker: Warning: '/Game/Particles/Textures/T_FX_FireBall_05' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:340][739]LoadErrors: 로드에 실패했습니다. /Game/Particles/Textures/T_FX_FireBall_05.T_FX_FireBall_05 레퍼런싱한 것: MI_FX_FireBall05
+[2018.05.25-07.28.58:340][739]LogLinker: Warning: NULL 로드중 '/Game/Particles/Textures/T_FX_FireBall_05' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:342][739]LogLinker: Warning: '/Game/Particles/Textures/T_FX_FireBall_01' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:342][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/Materials/M_FX_FireBall.uasset 로드중 '/Game/Particles/Textures/T_FX_FireBall_01' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:343][739]LoadErrors: Error: /Game/Particle/FireBall/Materials/M_FX_FireBall : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Particles/Textures/T_FX_FireBall_01
+[2018.05.25-07.28.58:343][739]LogLinker: Warning: '/Game/Particles/Textures/T_FX_FireBall_01' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:344][739]LogLinker: Warning: ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Particle/FireBall/Materials/M_FX_FireBall.uasset 로드중 '/Game/Particles/Textures/T_FX_FireBall_01' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:346][739]LogLinker: Warning: '/Game/Particles/Textures/T_FX_FireBall_01' 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:346][739]LoadErrors: 로드에 실패했습니다. /Game/Particles/Textures/T_FX_FireBall_01.T_FX_FireBall_01 레퍼런싱한 것: MaterialExpressionTextureSampleParameter2D_0
+[2018.05.25-07.28.58:347][739]LogLinker: Warning: NULL 로드중 '/Game/Particles/Textures/T_FX_FireBall_01' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.05.25-07.28.58:349][739]LogMaterial: Missing cached shader map for material M_FX_FireBall, compiling. 
+[2018.05.25-07.28.58:351][739]LogMaterial: Warning: C:\Users\stl\Documents\UE_Potfolio\Project2018-05-15\Test\Content\Particle\FireBall\Materials\M_FX_FireBall.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.25-07.28.58:351][739]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.05.25-07.29.03:767][739]LogTexture: Display: 텍스처 빌드: T_FX_FireBall_01 (AutoDXT, 512X512)
+[2018.05.25-07.29.03:767][739]LogTexture: Display: 텍스처 빌드: T_FX_FireBall_02 (AutoDXT, 512X512)
+[2018.05.25-07.29.03:767][739]LogShaderCompilers: Display: Shaders left to compile 230
+[2018.05.25-07.29.03:767][739]LogTexture: Display: 텍스처 빌드: T_FX_FireBall_04 (AutoDXT, 512X512)
+[2018.05.25-07.29.03:767][739]LogTexture: Display: 텍스처 빌드: T_FX_FireBall_05 (AutoDXT, 256X256)
+[2018.05.25-07.29.03:767][739]LogTexture: Display: 텍스처 빌드: Lava_Mask01 (AutoDXT, 1024X1024)
+[2018.05.25-07.29.03:768][739]LogShaderCompilers: Display: Shaders left to compile 220
+[2018.05.25-07.29.03:768][739]LogShaderCompilers: Display: Shaders left to compile 210
+[2018.05.25-07.29.03:768][739]LogTexture: Display: 텍스처 빌드: Lava_Mask01_N (BC5, 1024X1024)
+[2018.05.25-07.29.03:768][739]LogTexture: Display: 텍스처 빌드: Lava_Mask02 (AutoDXT, 1024X1024)
+[2018.05.25-07.29.03:768][739]LogTexture: Display: 텍스처 빌드: Lava_Mask02_N (BC5, 1024X1024)
+[2018.05.25-07.29.03:768][739]LogTexture: Display: 텍스처 빌드: T_FX_Fire (AutoDXT, 1024X1024)
+[2018.05.25-07.29.03:768][739]LogTexture: Display: 텍스처 빌드: T_FX_Lava_D (AutoDXT, 1024X1024)
+[2018.05.25-07.29.03:769][739]LogShaderCompilers: Display: Shaders left to compile 200
+[2018.05.25-07.29.03:769][739]LogShaderCompilers: Display: Shaders left to compile 190
+[2018.05.25-07.29.03:769][739]LogShaderCompilers: Display: Shaders left to compile 180
+[2018.05.25-07.29.03:769][739]LogTexture: Display: 텍스처 빌드: T_FX_Lava_N (BC5, 1024X1024)
+[2018.05.25-07.29.03:769][739]LogTexture: Display: 텍스처 빌드: T_FX_Smoke01 (AutoDXT, 256X256)
+[2018.05.25-07.29.03:769][739]LogTexture: Display: 텍스처 빌드: T_FX_Smoke02 (AutoDXT, 512X512)
+[2018.05.25-07.29.03:769][739]LogTexture: Display: 텍스처 빌드: T_FX_Star01 (AutoDXT, 256X256)
+[2018.05.25-07.29.03:769][739]LogTexture: Display: 텍스처 빌드: T_FX_Star02 (AutoDXT, 512X512)
+[2018.05.25-07.29.03:811][739]LogShaderCompilers: Display: Shaders left to compile 170
+[2018.05.25-07.29.04:566][739]LogShaderCompilers: Display: Shaders left to compile 160
+[2018.05.25-07.29.04:722][739]LogShaderCompilers: Display: Shaders left to compile 150
+[2018.05.25-07.29.06:000][739]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.25-07.29.06:535][740]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.05.25-07.29.06:659][743]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.05.25-07.29.07:301][745]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.05.25-07.29.08:057][753]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.05.25-07.29.08:614][755]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.05.25-07.29.08:622][756]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.05.25-07.29.10:087][758]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.05.25-07.29.10:173][760]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.05.25-07.29.10:642][763]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.05.25-07.29.11:564][766]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.05.25-07.29.11:925][769]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.05.25-07.29.12:082][772]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.05.25-07.29.13:475][773]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.05.25-07.29.13:604][775]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.25-07.29.29:764][564]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.25-07.29.29:796][564]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb89bcd8c0, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.25-07.29.29:805][564]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb89bcd8c0, Size=64
+[2018.05.25-07.29.29:805][564]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb892187c0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.25-07.29.29:813][564]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb8843db70, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.25-07.29.29:898][564]LogSkeletalMesh: Skeletal Mesh found in DDC [10.931127ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.05.25-07.29.29:916][564]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb892187c0, Size=64
+[2018.05.25-07.29.36:198][564]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.25-07.29.45:834][625]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.25-07.29.45:852][625]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec10a7f1a0, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Charater_item/Animation/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.25-07.29.45:859][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec10a7f1a0, Size=72
+[2018.05.25-07.29.45:859][625]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb8671ca90, Size=72, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_1:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.25-07.29.45:866][625]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb85396980, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Charater_item/Animation/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.25-07.29.45:869][625]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ebc4c00640, Size=208, Default__BP_Charater_C Function /Game/Charater_item/Blueprint/BP_Charater.BP_Charater_C:ExecuteUbergraph_BP_Charater
+[2018.05.25-07.29.45:874][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ebc4c00640, Size=208
+[2018.05.25-07.29.45:874][625]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ebc4c00640, Size=208, Default__BP_Charater_C Function /Engine/Transient.REINST_BP_Charater_C_7:ExecuteUbergraph_BP_Charater
+[2018.05.25-07.29.45:877][625]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ebc4c03740, Size=208, Default__BP_Charater_C Function /Game/Charater_item/Blueprint/BP_Charater.BP_Charater_C:ExecuteUbergraph_BP_Charater
+[2018.05.25-07.29.54:400][560]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb8671ca90, Size=72
+[2018.05.25-07.29.54:400][560]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ebc4c00640, Size=208
+[2018.05.25-07.29.57:344][560]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.25-07.29.57:357][560]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb8843db70, Size=72
+[2018.05.25-07.29.57:358][560]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb88f6d170, Size=72, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_2:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.25-07.29.57:958][560]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.05.25-07.29.57:960][560]LogMaterial: Warning: C:\Users\stl\Documents\UE_Potfolio\Project2018-05-15\Test\Content\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.25-07.29.57:962][560]LogMaterial: 	Missing Material Function
+[2018.05.25-07.29.57:962][560]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.05.25-07.29.57:962][560]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.05.25-07.29.57:962][560]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.25-07.29.57:962][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.05.25-07.29.57:962][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.05.25-07.29.57:963][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.05.25-07.29.57:963][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.05.25-07.29.57:965][560]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.05.25-07.29.57:967][560]LogMaterial: Warning: C:\Users\stl\Documents\UE_Potfolio\Project2018-05-15\Test\Content\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.25-07.29.57:968][560]LogMaterial: 	Missing Material Function
+[2018.05.25-07.29.57:968][560]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.05.25-07.29.57:968][560]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.05.25-07.29.57:968][560]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.25-07.29.57:968][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.05.25-07.29.57:968][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.05.25-07.29.57:968][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.05.25-07.29.57:969][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.05.25-07.29.57:971][560]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.05.25-07.29.57:973][560]LogMaterial: Warning: C:\Users\stl\Documents\UE_Potfolio\Project2018-05-15\Test\Content\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.25-07.29.57:974][560]LogMaterial: 	Missing Material Function
+[2018.05.25-07.29.57:974][560]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.05.25-07.29.57:974][560]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.05.25-07.29.57:974][560]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.25-07.29.57:974][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.05.25-07.29.57:974][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.05.25-07.29.57:974][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.05.25-07.29.57:975][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.05.25-07.29.57:977][560]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.05.25-07.29.57:979][560]LogMaterial: Warning: C:\Users\stl\Documents\UE_Potfolio\Project2018-05-15\Test\Content\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.25-07.29.57:979][560]LogMaterial: 	Missing Material Function
+[2018.05.25-07.29.57:979][560]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.05.25-07.29.57:980][560]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.05.25-07.29.57:980][560]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.25-07.29.57:980][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.05.25-07.29.57:980][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.05.25-07.29.57:980][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.05.25-07.29.57:980][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.05.25-07.29.57:982][560]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.05.25-07.29.57:985][560]LogMaterial: Warning: C:\Users\stl\Documents\UE_Potfolio\Project2018-05-15\Test\Content\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.25-07.29.57:985][560]LogMaterial: 	Missing Material Function
+[2018.05.25-07.29.57:985][560]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.05.25-07.29.57:986][560]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.05.25-07.29.57:986][560]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.25-07.29.57:986][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.05.25-07.29.57:986][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.05.25-07.29.57:986][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.05.25-07.29.57:986][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.05.25-07.29.57:989][560]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.05.25-07.29.57:991][560]LogMaterial: Warning: C:\Users\stl\Documents\UE_Potfolio\Project2018-05-15\Test\Content\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.25-07.29.57:991][560]LogMaterial: 	Missing Material Function
+[2018.05.25-07.29.57:991][560]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.05.25-07.29.57:992][560]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.05.25-07.29.57:992][560]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.25-07.29.57:992][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.05.25-07.29.57:992][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.05.25-07.29.57:992][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.05.25-07.29.57:992][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.05.25-07.29.57:994][560]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.05.25-07.29.57:997][560]LogMaterial: Warning: C:\Users\stl\Documents\UE_Potfolio\Project2018-05-15\Test\Content\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.25-07.29.57:997][560]LogMaterial: 	Missing Material Function
+[2018.05.25-07.29.57:997][560]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.05.25-07.29.57:997][560]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.05.25-07.29.57:997][560]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.25-07.29.57:997][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.05.25-07.29.57:998][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.05.25-07.29.57:998][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.05.25-07.29.57:998][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.05.25-07.29.58:000][560]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.05.25-07.29.58:002][560]LogMaterial: Warning: C:\Users\stl\Documents\UE_Potfolio\Project2018-05-15\Test\Content\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.25-07.29.58:003][560]LogMaterial: 	Missing Material Function
+[2018.05.25-07.29.58:003][560]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.05.25-07.29.58:003][560]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.05.25-07.29.58:003][560]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.25-07.29.58:003][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.05.25-07.29.58:003][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.05.25-07.29.58:004][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.05.25-07.29.58:004][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.05.25-07.29.58:006][560]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.05.25-07.29.58:008][560]LogMaterial: Warning: C:\Users\stl\Documents\UE_Potfolio\Project2018-05-15\Test\Content\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.25-07.29.58:008][560]LogMaterial: 	Missing Material Function
+[2018.05.25-07.29.58:008][560]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.05.25-07.29.58:009][560]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.05.25-07.29.58:009][560]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.25-07.29.58:009][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.05.25-07.29.58:009][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.05.25-07.29.58:009][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.05.25-07.29.58:009][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.05.25-07.29.58:012][560]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.05.25-07.29.58:014][560]LogMaterial: Warning: C:\Users\stl\Documents\UE_Potfolio\Project2018-05-15\Test\Content\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.25-07.29.58:014][560]LogMaterial: 	Missing Material Function
+[2018.05.25-07.29.58:015][560]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.05.25-07.29.58:015][560]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.05.25-07.29.58:015][560]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.25-07.29.58:015][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.05.25-07.29.58:015][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.05.25-07.29.58:015][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.05.25-07.29.58:016][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.05.25-07.29.58:018][560]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.05.25-07.29.58:020][560]LogMaterial: Warning: C:\Users\stl\Documents\UE_Potfolio\Project2018-05-15\Test\Content\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.25-07.29.58:020][560]LogMaterial: 	Missing Material Function
+[2018.05.25-07.29.58:021][560]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.05.25-07.29.58:021][560]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.05.25-07.29.58:021][560]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.25-07.29.58:021][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.05.25-07.29.58:021][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.05.25-07.29.58:021][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.05.25-07.29.58:022][560]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.05.25-07.29.58:027][560]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2018.05.25-07.29.58:090][560]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.05.25-07.29.58:101][560]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2018.05.25-07.29.58:161][560]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.05.25-07.29.58:170][560]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2018.05.25-07.29.58:224][560]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.05.25-07.29.58:231][560]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2018.05.25-07.29.58:285][560]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.05.25-07.29.59:651][560]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb88f6d170, Size=72
+[2018.05.25-07.30.29:270][721]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.25-07.30.29:273][721]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.05.25-07.30.29:285][721]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.25-07.30.29:285][721]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.25-07.30.29:285][721]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.25-07.30.29:286][721]LogMaterial: Missing cached shader map for material blinn1, compiling. 
+[2018.05.25-07.30.29:296][721]LogMaterial: Missing cached shader map for material blinn2, compiling. 
+[2018.05.25-07.30.29:307][721]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2018.05.25-07.30.29:319][721]LogMaterial: Missing cached shader map for material blinn4, compiling. 
+[2018.05.25-07.30.29:330][721]LogMaterial: Missing cached shader map for material body, compiling. 
+[2018.05.25-07.30.29:341][721]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2018.05.25-07.30.29:352][721]LogMaterial: Missing cached shader map for material ofure, compiling. 
+[2018.05.25-07.30.29:383][721]LogStaticMesh: SM_Bonfire 스태틱 메시 빌드중...
+[2018.05.25-07.30.29:411][721]LogStaticMesh: Built static mesh [0.03s] /Game/Props/Meshes/SM_Bonfire.SM_Bonfire
+[2018.05.25-07.30.29:433][721]LogStaticMesh: SM_Coin 스태틱 메시 빌드중...
+[2018.05.25-07.30.29:442][721]LogStaticMesh: Built static mesh [0.01s] /Game/Props/Meshes/SM_Coin.SM_Coin
+[2018.05.25-07.30.29:448][721]LogStaticMesh: SM_Gear 스태틱 메시 빌드중...
+[2018.05.25-07.30.29:457][721]LogStaticMesh: Built static mesh [0.01s] /Game/Props/Meshes/SM_Gear.SM_Gear
+[2018.05.25-07.30.29:461][721]LogStaticMesh: SM_GearShaft 스태틱 메시 빌드중...
+[2018.05.25-07.30.29:463][721]LogStaticMesh: Built static mesh [0.00s] /Game/Props/Meshes/SM_GearShaft.SM_GearShaft
+[2018.05.25-07.30.29:492][721]LogStaticMesh: SM_Shape_Cylinder100x10 스태틱 메시 빌드중...
+[2018.05.25-07.30.29:496][721]LogStaticMesh: Built static mesh [0.00s] /Game/Props/Meshes/SM_Shape_Cylinder100x10.SM_Shape_Cylinder100x10
+[2018.05.25-07.30.29:500][721]LogStaticMesh: SM_Shape_Cylinder_Base 스태틱 메시 빌드중...
+[2018.05.25-07.30.29:507][721]LogStaticMesh: Built static mesh [0.01s] /Game/Props/Meshes/SM_Shape_Cylinder_Base.SM_Shape_Cylinder_Base
+[2018.05.25-07.30.29:519][721]LogStaticMesh: SM_Shuriken 스태틱 메시 빌드중...
+[2018.05.25-07.30.29:531][721]LogStaticMesh: Built static mesh [0.01s] /Game/Props/Meshes/SM_Shuriken.SM_Shuriken
+[2018.05.25-07.30.29:536][721]LogStaticMesh: SM_Signboard 스태틱 메시 빌드중...
+[2018.05.25-07.30.29:543][721]LogStaticMesh: Built static mesh [0.01s] /Game/Props/Meshes/SM_Signboard.SM_Signboard
+[2018.05.25-07.30.59:287][721]LogTexture: Display: 텍스처 빌드: T_Bonfire_D (AutoDXT, 2048X2048)
+[2018.05.25-07.30.59:287][721]LogShaderCompilers: Display: Shaders left to compile 154
+[2018.05.25-07.30.59:287][721]LogShaderCompilers: Display: Shaders left to compile 144
+[2018.05.25-07.30.59:287][721]LogShaderCompilers: Display: Shaders left to compile 134
+[2018.05.25-07.30.59:287][721]LogShaderCompilers: Display: Shaders left to compile 124
+[2018.05.25-07.30.59:287][721]LogShaderCompilers: Display: Shaders left to compile 114
+[2018.05.25-07.30.59:288][721]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.05.25-07.30.59:288][721]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.05.25-07.30.59:288][721]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.05.25-07.30.59:288][721]LogTexture: Display: 텍스처 빌드: T_Bonfire_M (AutoDXT, 2048X2048)
+[2018.05.25-07.30.59:288][721]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.05.25-07.30.59:288][721]LogTexture: Display: 텍스처 빌드: T_Bonfire_N (BC5, 512X512)
+[2018.05.25-07.30.59:288][721]LogTexture: Display: 텍스처 빌드: T_Bonfire_R (AutoDXT, 2048X2048)
+[2018.05.25-07.30.59:288][721]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.05.25-07.30.59:289][721]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.05.25-07.30.59:289][721]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.05.25-07.30.59:289][721]LogTexture: Display: 텍스처 빌드: T_Carton_D (AutoDXT, 1024X1024)
+[2018.05.25-07.30.59:289][721]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.05.25-07.30.59:289][721]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.05.25-07.30.59:289][721]LogTexture: Display: 텍스처 빌드: T_Carton_M (AutoDXT, 1024X1024)
+[2018.05.25-07.30.59:289][721]LogTexture: Display: 텍스처 빌드: T_Carton_N (BC5, 512X512)
+[2018.05.25-07.30.59:290][721]LogTexture: Display: 텍스처 빌드: T_Carton_S (AutoDXT, 512X512)
+[2018.05.25-07.30.59:290][721]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.25-07.30.59:290][721]LogTexture: Display: 텍스처 빌드: T_Coin01_D (AutoDXT, 512X512)
+[2018.05.25-07.30.59:290][721]LogTexture: Display: 텍스처 빌드: T_Coin01_N (BC5, 512X512)
+[2018.05.25-07.30.59:290][721]LogTexture: Display: 텍스처 빌드: T_Coin01_R (AutoDXT, 512X512)
+[2018.05.25-07.30.59:290][721]LogTexture: Display: 텍스처 빌드: T_Coin01_S (AutoDXT, 512X512)
+[2018.05.25-07.30.59:290][721]LogTexture: Display: 텍스처 빌드: T_Cylinder100x10_D (AutoDXT, 1024X1024)
+[2018.05.25-07.30.59:291][721]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.25-07.30.59:291][721]LogTexture: Display: 텍스처 빌드: T_Cylinder100x10_N (BC5, 512X512)
+[2018.05.25-07.30.59:291][721]LogTexture: Display: 텍스처 빌드: T_GearShaft_D (AutoDXT, 512X512)
+[2018.05.25-07.30.59:291][721]LogTexture: Display: 텍스처 빌드: T_Gear_D (AutoDXT, 1024X1024)
+[2018.05.25-07.30.59:291][721]LogTexture: Display: 텍스처 빌드: T_Scroll_D (AutoDXT, 512X512)
+[2018.05.25-07.30.59:291][721]LogTexture: Display: 텍스처 빌드: T_Shuriken_D (AutoDXT, 2048X2048)
+[2018.05.25-07.30.59:291][721]LogTexture: Display: 텍스처 빌드: T_Shuriken_MT (AutoDXT, 2048X2048)
+[2018.05.25-07.30.59:291][721]LogTexture: Display: 텍스처 빌드: T_Shuriken_N (BC5, 2048X2048)
+[2018.05.25-07.30.59:292][721]LogTexture: Display: 텍스처 빌드: T_Shuriken_R (AutoDXT, 2048X2048)
+[2018.05.25-07.30.59:292][721]LogTexture: Display: 텍스처 빌드: T_Signboard_D (AutoDXT, 1024X1024)
+[2018.05.25-07.31.24:738][721]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.25-07.31.24:840][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ebdcc9c400, Size=240, Default__BP_Trap_Bullet_C Function /Game/BluePrints/BP_Trap_Bullet.BP_Trap_Bullet_C:ExecuteUbergraph_BP_Trap_Bullet
+[2018.05.25-07.31.24:845][721]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ebdcc9c400, Size=240
+[2018.05.25-07.31.24:845][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ebbff90600, Size=240, Default__BP_Trap_Bullet_C Function /Engine/Transient.REINST_BP_Trap_Bullet_C_11:ExecuteUbergraph_BP_Trap_Bullet
+[2018.05.25-07.31.24:848][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ebdb840600, Size=240, Default__BP_Trap_Bullet_C Function /Game/BluePrints/BP_Trap_Bullet.BP_Trap_Bullet_C:ExecuteUbergraph_BP_Trap_Bullet
+[2018.05.25-07.31.24:857][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb88a2aed0, Size=80, Default__BP_Off_ArrowBox_C Function /Game/BluePrints/BP_Off_ArrowBox.BP_Off_ArrowBox_C:ExecuteUbergraph_BP_Off_ArrowBox
+[2018.05.25-07.31.24:860][721]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb88a2aed0, Size=80
+[2018.05.25-07.31.24:860][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb88a2aed0, Size=80, Default__BP_Off_ArrowBox_C Function /Engine/Transient.REINST_BP_Off_ArrowBox_C_15:ExecuteUbergraph_BP_Off_ArrowBox
+[2018.05.25-07.31.24:863][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb88a28e00, Size=80, Default__BP_Off_ArrowBox_C Function /Game/BluePrints/BP_Off_ArrowBox.BP_Off_ArrowBox_C:ExecuteUbergraph_BP_Off_ArrowBox
+[2018.05.25-07.31.24:890][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ebcf6674c0, Size=304, Default__Door_C Function /Game/BluePrints/Door.Door_C:ExecuteUbergraph_Door
+[2018.05.25-07.31.24:894][721]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ebcf6674c0, Size=304
+[2018.05.25-07.31.24:894][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ebcf667600, Size=304, Default__Door_C Function /Engine/Transient.REINST_Door_C_17:ExecuteUbergraph_Door
+[2018.05.25-07.31.24:897][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ebcf6674c0, Size=304, Default__Door_C Function /Game/BluePrints/Door.Door_C:ExecuteUbergraph_Door
+[2018.05.25-07.31.24:904][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb88f9de40, Size=280, Default__BP_Switch_C Function /Game/BluePrints/BP_Switch.BP_Switch_C:ExecuteUbergraph_BP_Switch
+[2018.05.25-07.31.24:909][721]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb88f9de40, Size=280
+[2018.05.25-07.31.24:909][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb88f9e480, Size=280, Default__BP_Switch_C Function /Engine/Transient.REINST_BP_Switch_C_19:ExecuteUbergraph_BP_Switch
+[2018.05.25-07.31.24:915][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb88f9c400, Size=280, Default__BP_Switch_C Function /Game/BluePrints/BP_Switch.BP_Switch_C:ExecuteUbergraph_BP_Switch
+[2018.05.25-07.31.24:990][721]LogMaterial: Missing cached shader map for material M_TrapBullete, compiling. 
+[2018.05.25-07.31.25:213][721]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.25-07.31.25:213][721]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.25-07.31.25:214][721]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.25-07.31.25:634][721]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.05.25-07.31.25:961][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ebd0ca7b70, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.25-07.31.25:962][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ebd0ca7b38, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.25-07.31.35:957][722]LogSlate: Took 0.006609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.25-07.31.40:724][985]LogSlate: Window 'BP_Switch' being destroyed
+[2018.05.25-07.32.05:041][784]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb88a2aed0, Size=80
+[2018.05.25-07.32.05:042][784]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ebbff90600, Size=240
+[2018.05.25-07.32.05:042][784]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ebcf667600, Size=304
+[2018.05.25-07.32.05:042][784]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb88f9e480, Size=280
+[2018.05.25-07.32.12:494][784]LogSlate: Window '레퍼런스를 대체할까요?' being destroyed
+[2018.05.25-07.32.12:498][784]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.25-07.32.14:348][784]LogSlate: Window '콘텐츠 저장' being destroyed
+[2018.05.25-07.32.14:688][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Off_ArrowBox" FILE="../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_Off_ArrowBox.uasset" SILENT=true
+[2018.05.25-07.32.14:726][784]LogSavePackage: Save=26.94ms
+[2018.05.25-07.32.14:727][784]LogSavePackage: Moving '../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Saved/BP_Off_ArrowBox78D6AE064EEC793DCD72E194F002BEA3.tmp' to '../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_Off_ArrowBox.uasset'
+[2018.05.25-07.32.14:730][784]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_Off_ArrowBox.uasset
+[2018.05.25-07.32.14:749][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Switch" FILE="../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_Switch.uasset" SILENT=true
+[2018.05.25-07.32.14:793][784]LogSavePackage: Save=34.49ms
+[2018.05.25-07.32.14:793][784]LogSavePackage: Moving '../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Saved/BP_SwitchFBE866424191561C5A898E90FEE80931.tmp' to '../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_Switch.uasset'
+[2018.05.25-07.32.14:796][784]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_Switch.uasset
+[2018.05.25-07.32.14:800][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Meshes/SM_Box01" FILE="../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Props/Meshes/SM_Box01.uasset" SILENT=true
+[2018.05.25-07.32.14:813][784]LogSavePackage: Save=4.13ms
+[2018.05.25-07.32.14:813][784]LogSavePackage: Moving '../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Saved/SM_Box011C34FE124FC03A561C1FF892BD60F49C.tmp' to '../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Props/Meshes/SM_Box01.uasset'
+[2018.05.25-07.32.14:816][784]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/Props/Meshes/SM_Box01.uasset
+[2018.05.25-07.32.42:391][334]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.25-07.33.03:454][570]LogSlate: Window 'BP_Trap_Bullet' being destroyed
+[2018.05.25-07.33.06:123][829]LogActorFactory: Actor Factory created Cylinder
+[2018.05.25-07.33.06:524][864]LogActorFactory: Actor Factory created Cylinder
+[2018.05.25-07.33.17:920][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.25-07.33.18:440][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.05.25-07.33.20:744][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.05.25-07.33.20:980][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.05.25-07.33.21:383][299]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder)
+[2018.05.25-07.33.21:416][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.25-07.33.25:766][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.25-07.33.26:446][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.05.25-07.33.26:896][790]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder)
+[2018.05.25-07.33.26:926][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.25-07.33.51:051][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.25-07.33.57:167][ 19]LogSlate: Window '새로운 스태틱 메시 위치 선택' being destroyed
+[2018.05.25-07.33.57:180][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.25-07.33.57:182][ 19]LogStaticMesh: StaticMesh 스태틱 메시 빌드중...
+[2018.05.25-07.33.57:188][ 19]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/StaticMesh.StaticMesh
+[2018.05.25-07.33.58:018][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.25-07.33.58:425][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.05.25-07.34.20:607][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.25-07.34.23:772][205]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2018.05.25-07.34.39:073][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.25-07.34.41:174][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.25-07.34.41:604][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.05.25-07.34.42:785][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.25-07.34.50:346][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.05.25-07.34.53:137][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.25-07.35.08:408][ 80]BlueprintLog: New page: BP_Trap_Bullet 컴파일
+[2018.05.25-07.35.08:421][ 80]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ebdb840600, Size=240
+[2018.05.25-07.35.08:421][ 80]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec3f1fbd00, Size=240, Default__BP_Trap_Bullet_C Function /Engine/Transient.REINST_BP_Trap_Bullet_C_37:ExecuteUbergraph_BP_Trap_Bullet
+[2018.05.25-07.35.08:424][ 80]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec513a0700, Size=240, Default__BP_Trap_Bullet_C Function /Game/BluePrints/BP_Trap_Bullet.BP_Trap_Bullet_C:ExecuteUbergraph_BP_Trap_Bullet
+[2018.05.25-07.35.10:615][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Trap_Bullet" FILE="../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_Trap_Bullet.uasset" SILENT=true
+[2018.05.25-07.35.10:654][198]LogSavePackage: Save=30.57ms
+[2018.05.25-07.35.10:654][198]LogSavePackage: Moving '../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Saved/BP_Trap_Bullet20F48E1B4AEA134F9DE256A615AA004A.tmp' to '../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_Trap_Bullet.uasset'
+[2018.05.25-07.35.10:657][198]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_Trap_Bullet.uasset
+[2018.05.25-07.35.19:981][667]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec3f1fbd00, Size=240
+[2018.05.25-07.35.23:039][667]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.25-07.35.39:851][ 71]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.25-07.35.39:922][ 71]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec3b55a890, Size=80, Default__BP_On_ArrowBox_2_C Function /Game/BluePrints/BP_On_ArrowBox_2.BP_On_ArrowBox_2_C:ExecuteUbergraph_BP_On_ArrowBox_2
+[2018.05.25-07.35.39:925][ 71]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec3b55a890, Size=80
+[2018.05.25-07.35.39:925][ 71]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec3b55a890, Size=80, Default__BP_On_ArrowBox_2_C Function /Engine/Transient.REINST_BP_On_ArrowBox_2_C_39:ExecuteUbergraph_BP_On_ArrowBox_2
+[2018.05.25-07.35.39:927][ 71]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb8bc702c0, Size=80, Default__BP_On_ArrowBox_2_C Function /Game/BluePrints/BP_On_ArrowBox_2.BP_On_ArrowBox_2_C:ExecuteUbergraph_BP_On_ArrowBox_2
+[2018.05.25-07.35.39:934][ 71]LogMaterial: Missing cached shader map for material M_On_ArrowBox_2, compiling. 
+[2018.05.25-07.35.39:948][ 71]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.25-07.35.39:948][ 71]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.25-07.35.39:948][ 71]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.25-07.36.09:111][717]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.25-07.36.15:833][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Trap_Bullet" FILE="../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_Trap_Bullet.uasset" SILENT=true
+[2018.05.25-07.36.15:856][187]LogSavePackage: Save=19.95ms
+[2018.05.25-07.36.15:856][187]LogSavePackage: Moving '../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Saved/BP_Trap_Bullet27B257E54BB6A139A86E2B8FBDFA0D88.tmp' to '../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_Trap_Bullet.uasset'
+[2018.05.25-07.36.15:858][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_Trap_Bullet.uasset
+[2018.05.25-07.36.16:033][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Trap_Bullet" FILE="../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_Trap_Bullet.uasset" SILENT=true
+[2018.05.25-07.36.16:056][197]LogSavePackage: Save=19.65ms
+[2018.05.25-07.36.16:056][197]LogSavePackage: Moving '../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Saved/BP_Trap_BulletB33E24DC45EC0C4DBDFF4DBC93EEFA88.tmp' to '../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_Trap_Bullet.uasset'
+[2018.05.25-07.36.16:057][197]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_Trap_Bullet.uasset
+[2018.05.25-07.36.18:421][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_On_ArrowBox_2" FILE="../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_On_ArrowBox_2.uasset" SILENT=true
+[2018.05.25-07.36.18:455][351]LogSavePackage: Save=24.58ms
+[2018.05.25-07.36.18:455][351]LogSavePackage: Moving '../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Saved/BP_On_ArrowBox_25D520C3C4A1907283331E4A9A0BD48A5.tmp' to '../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_On_ArrowBox_2.uasset'
+[2018.05.25-07.36.18:456][351]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stl/Documents/UE_Potfolio/Project2018-05-15/Test/Content/BluePrints/BP_On_ArrowBox_2.uasset
+[2018.05.25-07.36.25:739][585]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec3b55a890, Size=80
+[2018.05.25-07.36.29:101][585]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.25-07.36.34:941][911]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.25-07.36.35:243][911]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.288 s
+[2018.05.25-07.36.35:243][911]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.25-07.36.35:244][911]LogOutputDevice: Error: 
+[2018.05.25-07.36.35:244][911]LogOutputDevice: Error: Ensure condition failed: Found [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 184]
+[2018.05.25-07.36.35:244][911]LogOutputDevice: Error: Cannot remove redirection from /Game/Props/Meshes/SM_Box01.SM_Box01, it was not registered
+[2018.05.25-07.36.35:244][911]LogOutputDevice: Error: Stack: 
+[2018.05.25-07.36.35:244][911]LogOutputDevice: Error: [Callstack] 0x00000000ECB8B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.25-07.36.35:244][911]LogOutputDevice: Error: [Callstack] 0x00000000EC8EAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.25-07.36.35:245][911]LogOutputDevice: Error: [Callstack] 0x00000000EC8FECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.25-07.36.35:245][911]LogOutputDevice: Error: [Callstack] 0x00000000EC19E811 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.25-07.36.35:245][911]LogOutputDevice: Error: [Callstack] 0x00000000F1BA6347 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2018.05.25-07.36.35:245][911]LogOutputDevice: Error: [Callstack] 0x00000000D939F1E8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.25-07.36.35:245][911]LogOutputDevice: Error: [Callstack] 0x00000000D939E9A4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.25-07.36.35:245][911]LogOutputDevice: Error: [Callstack] 0x00000000D8B85987 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.25-07.36.35:245][911]LogOutputDevice: Error: [Callstack] 0x00000000D8DE98E2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.25-07.36.35:246][911]LogOutputDevice: Error: [Callstack] 0x00000000D8D72002 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.25-07.36.35:246][911]LogOutputDevice: Error: [Callstack] 0x00000000D8D75279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.25-07.36.35:246][911]LogOutputDevice: Error: [Callstack] 0x00000000D8DF3AF5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.25-07.36.35:246][911]LogOutputDevice: Error: [Callstack] 0x00000000ED61B7F7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:246][911]LogOutputDevice: Error: [Callstack] 0x00000000ED6419E8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:246][911]LogOutputDevice: Error: [Callstack] 0x00000000ED46485C UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:246][911]LogOutputDevice: Error: [Callstack] 0x00000000ED437D75 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:247][911]LogOutputDevice: Error: [Callstack] 0x00000000ED4CF617 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:247][911]LogOutputDevice: Error: [Callstack] 0x00000000ED4B7D0D UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:247][911]LogOutputDevice: Error: [Callstack] 0x00000000ED4AB3E2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:247][911]LogOutputDevice: Error: [Callstack] 0x00000000F4E2E69B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.25-07.36.35:247][911]LogOutputDevice: Error: [Callstack] 0x00000000F4E21B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.25-07.36.35:247][911]LogOutputDevice: Error: [Callstack] 0x00000000F4E3052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.25-07.36.35:248][911]LogOutputDevice: Error: [Callstack] 0x00000000F4E1D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.25-07.36.35:248][911]LogOutputDevice: Error: [Callstack] 0x000000001C0F6CC1 USER32.dll!UnknownFunction []
+[2018.05.25-07.36.35:248][911]LogOutputDevice: Error: [Callstack] 0x000000001C0F6693 USER32.dll!UnknownFunction []
+[2018.05.25-07.36.35:248][911]LogOutputDevice: Error: [Callstack] 0x00000000F4E315C9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.25-07.36.35:248][911]LogOutputDevice: Error: [Callstack] 0x00000000ED4DAA99 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:249][911]LogOutputDevice: Error: [Callstack] 0x00000000ED46E0D2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:249][911]LogOutputDevice: Error: [Callstack] 0x00000000D8E8C9D9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.25-07.36.35:249][911]LogOutputDevice: Error: [Callstack] 0x00000000D939E47C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.25-07.36.35:249][911]LogOutputDevice: Error: [Callstack] 0x00000000CAB1892D UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.25-07.36.35:249][911]LogOutputDevice: Error: [Callstack] 0x00000000CAC2A314 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.25-07.36.35:249][911]LogOutputDevice: Error: [Callstack] 0x00000000CAB7A37E UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.25-07.36.35:250][911]LogOutputDevice: Error: [Callstack] 0x00000000CAB7FCA9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.25-07.36.35:250][911]LogOutputDevice: Error: [Callstack] 0x00000000CAC248D5 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.25-07.36.35:250][911]LogOutputDevice: Error: [Callstack] 0x00000000CAB1AA87 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.25-07.36.35:250][911]LogOutputDevice: Error: [Callstack] 0x00000000CAB78599 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.25-07.36.35:250][911]LogOutputDevice: Error: [Callstack] 0x00000000CAA93F92 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.25-07.36.35:250][911]LogOutputDevice: Error: [Callstack] 0x00000000CAA974A9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.25-07.36.35:251][911]LogOutputDevice: Error: [Callstack] 0x00000000CAB1DBD5 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.25-07.36.35:251][911]LogOutputDevice: Error: [Callstack] 0x00000000ED61B7F7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:251][911]LogOutputDevice: Error: [Callstack] 0x00000000ED6419E8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:251][911]LogOutputDevice: Error: [Callstack] 0x00000000ED46485C UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:251][911]LogOutputDevice: Error: [Callstack] 0x00000000ED437D75 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:252][911]LogOutputDevice: Error: [Callstack] 0x00000000ED4CF617 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:252][911]LogOutputDevice: Error: [Callstack] 0x00000000ED4B7D0D UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:252][911]LogOutputDevice: Error: [Callstack] 0x00000000ED4AB3E2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.25-07.36.35:252][911]LogOutputDevice: Error: [Callstack] 0x00000000F4E2E69B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.25-07.36.35:252][911]LogOutputDevice: Error: [Callstack] 0x00000000F4E21B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.25-07.36.35:252][911]LogOutputDevice: Error: [Callstack] 0x00000000F4E3052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.25-07.36.35:252][911]LogOutputDevice: Error: [Callstack] 0x00000000F4E1D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.25-07.36.35:253][911]LogOutputDevice: Error: [Callstack] 0x000000001C0F6CC1 USER32.dll!UnknownFunction []
+[2018.05.25-07.36.35:253][911]LogOutputDevice: Error: [Callstack] 0x000000001C0F6693 USER32.dll!UnknownFunction []
+[2018.05.25-07.36.35:253][911]LogOutputDevice: Error: [Callstack] 0x00000000F4E31666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.25-07.36.35:253][911]LogOutputDevice: Error: [Callstack] 0x00000000B2325475 UE4Editor.exe!UnknownFunction []
+[2018.05.25-07.36.35:253][911]LogOutputDevice: Error: [Callstack] 0x00000000B2336BD0 UE4Editor.exe!UnknownFunction []
+[2018.05.25-07.36.35:253][911]LogOutputDevice: Error: [Callstack] 0x00000000B2336C4A UE4Editor.exe!UnknownFunction []
+[2018.05.25-07.36.35:254][911]LogOutputDevice: Error: [Callstack] 0x00000000B2344177 UE4Editor.exe!UnknownFunction []
+[2018.05.25-07.36.35:254][911]LogOutputDevice: Error: [Callstack] 0x00000000B2345B87 UE4Editor.exe!UnknownFunction []
+[2018.05.25-07.36.35:254][911]LogOutputDevice: Error: [Callstack] 0x000000001C873034 KERNEL32.DLL!UnknownFunction []
+[2018.05.25-07.36.35:254][911]LogOutputDevice: Error: [Callstack] 0x000000001C9C1551 ntdll.dll!UnknownFunction []
+[2018.05.25-07.36.35:254][911]LogOutputDevice: Error: 
+[2018.05.25-07.36.35:255][911]LogStats:                SubmitErrorReport -  0.000 s
